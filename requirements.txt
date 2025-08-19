@@ -1,0 +1,10 @@
+fastapi==0.89.1
+uvicorn[standard]==0.21.1
+tensorflow==2.15.0
+numpy==1.24.0
+pillow==9.4.0
+mangum==0.11.0
+python-multipart==0.0.5
+requests==2.28.2
+python-dotenv==1.0.0
+supabase
